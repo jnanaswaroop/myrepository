@@ -5,5 +5,4 @@ echo "Enter 2nd number"
 read b
 echo "Enter 3rd number"
 read c
-echo "Sum of three numbers: $a + $b + $c = $(echo "$a + $b + $c" | bc) Made changes in line 8 by jnanaswaroop"
-.
+echo "Sum of three Yashasssssssss numbers: $a + $b + $c = $(echo "$a + $b + $c" | bc)"
