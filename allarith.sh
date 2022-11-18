@@ -7,4 +7,4 @@ read b
 echo "Sum: $a + $b = $(echo $a + $b | bc)"
 echo "Difference: $a - $b = $(echo $a - $b | bc)"
 echo "Product: $a * $b = $(echo $a \* $b | bc)"
-echo "Division: $a / $b = $(echo "scale = 4; $a / $b" | bc)"
+echo "Division: $a / $b = $(echo "scale = 4; $a / $b" | bc) is Jnana Swaroop K R"
