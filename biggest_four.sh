@@ -11,5 +11,5 @@ elif [ $c -gt $a -a $c -gt $b -a $c -gt $d ]
 then
         echo "$c is biggest of all entered numbers"
 else
-	echo "$d is biggest of all entered numbers"
+	echo "$d is biggest of all entered numbers jnana swaroop k r"
 fi
