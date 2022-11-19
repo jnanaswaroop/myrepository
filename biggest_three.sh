@@ -12,5 +12,5 @@ elif [ $c -gt $a -a $c -gt $b ]
 then
 	echo "$c is the biggest"
 else
-	echo "Please Enter three different values"
+	echo "Please Enter three different values jnana swaroop k r"
 fi
