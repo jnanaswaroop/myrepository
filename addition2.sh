@@ -1,5 +1,5 @@
 #!/bin/bash
-a=3
-b=6
+a=$1
+b=$2
 sum=$(echo $a + $b | bc)
 echo "Sum of two numbers $a and $b is $sum"
