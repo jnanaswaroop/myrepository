@@ -9,5 +9,5 @@ then
 else
 	echo "It's an Odd Number"
 fi
-echo "Hi Jnana Swaroop"
+echo "Hi Jnana Swaroop K R"
 echo "hi Yasha J"
