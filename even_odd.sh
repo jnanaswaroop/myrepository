@@ -11,4 +11,4 @@ else
 fi
 echo "Hi Jnana Swaroop K R"
 echo "hi Yasha J"
-echi "hiiiiiiiiiiiiii"
+echi "hiiiiiiiiiiiiiii"
